@@ -1,4 +1,4 @@
-export default{
+export default {
   "type": "service_account",
   "project_id": "chekov-api-jct",
   "private_key_id": "491ed05d346f3fb8d633f8b73a00f7f6e61a54e9",
